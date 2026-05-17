@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.corda</groupId>
+  <artifactId>corda-shell</artifactId>
+  <version>4.10</version>
+  <dependencies/>
+  <name>corda-shell</name>
+  <description>Corda Shell</description>
+  <url>https://github.com/corda/corda-shell</url>
+  <scm>
+    <url>https://github.com/corda/corda-shell</url>
+  </scm>
+  <licenses>
+    <license>
+      <name>Apache-2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+      <distribution>https://www.apache.org/licenses/LICENSE-2.0</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>R3</id>
+      <name>R3</name>
+      <email>dev@corda.net</email>
+    </developer>
+  </developers>
+</project>
